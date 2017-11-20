@@ -1,0 +1,6 @@
+tensorflow-gpu
+keras
+h5py
+scipy
+pillow
+imageio
